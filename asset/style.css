@@ -1,0 +1,24 @@
+.ah{
+    background:#0089fc; 
+    color:white; 
+    padding: 5px; 
+    border-radius: 5px;
+}
+
+.ah:hover{
+    background:#4fa4e9; 
+    color:white; 
+}
+
+.nav_ah{
+    background:#0089fc; 
+    color:white; 
+    padding: 10px; 
+    border-radius: 5px;
+}
+
+.nav_ah:hover{
+    background:#4fa4e9;
+    color:white; 
+
+}
